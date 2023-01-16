@@ -1,0 +1,15 @@
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/bin/Debug/net7.0/Task4
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/bin/Debug/net7.0/Task4.deps.json
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/bin/Debug/net7.0/Task4.dll
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/bin/Debug/net7.0/Task4.pdb
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.dll
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/refint/Task4.dll
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.pdb
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/Users/shchurkov/Desktop/Geekbrains/Seminar C# HM1/Task4/obj/Debug/net7.0/ref/Task4.dll
